@@ -14,3 +14,5 @@ CNN MNIST Février: https://colab.research.google.com/drive/1H526-zNAFtnlqPbIlPu
 "Deconv" / Transpose : https://towardsdatascience.com/up-sampling-with-transposed-convolution-9ae4f2df52d0
 
 Batch Normalization: https://arxiv.org/abs/1502.03167
+
+Cancer data: https://drive.google.com/drive/folders/1iQY-k4CmVBf_SKSdsgqbAuq0uprto0Ga?usp=sharing
