@@ -16,3 +16,5 @@ CNN MNIST Février: https://colab.research.google.com/drive/1H526-zNAFtnlqPbIlPu
 Batch Normalization: https://arxiv.org/abs/1502.03167
 
 Cancer data: https://drive.google.com/drive/folders/1iQY-k4CmVBf_SKSdsgqbAuq0uprto0Ga?usp=sharing
+
+Cancer Colab : https://colab.research.google.com/drive/1E9XPgCyFtUMkcbIQ0JT2CFcVYYUh5KL8
