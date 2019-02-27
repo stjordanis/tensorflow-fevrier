@@ -12,3 +12,5 @@ CNN Décembre Template: https://colab.research.google.com/drive/1GsdT3_sSuSymTWd
 CNN MNIST Février: https://colab.research.google.com/drive/1H526-zNAFtnlqPbIlPuWoNToTiWdJLra
 
 "Deconv" / Transpose : https://towardsdatascience.com/up-sampling-with-transposed-convolution-9ae4f2df52d0
+
+Batch Normalization: https://arxiv.org/abs/1502.03167
