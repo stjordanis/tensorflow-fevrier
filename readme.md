@@ -18,3 +18,5 @@ Batch Normalization: https://arxiv.org/abs/1502.03167
 Cancer data: https://drive.google.com/drive/folders/1iQY-k4CmVBf_SKSdsgqbAuq0uprto0Ga?usp=sharing
 
 Cancer Colab : https://colab.research.google.com/drive/1E9XPgCyFtUMkcbIQ0JT2CFcVYYUh5KL8
+
+Object Detection: https://medium.com/@jonathan_hui/object-detection-speed-and-accuracy-comparison-faster-r-cnn-r-fcn-ssd-and-yolo-5425656ae359
