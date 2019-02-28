@@ -20,3 +20,5 @@ Cancer data: https://drive.google.com/drive/folders/1iQY-k4CmVBf_SKSdsgqbAuq0upr
 Cancer Colab : https://colab.research.google.com/drive/1E9XPgCyFtUMkcbIQ0JT2CFcVYYUh5KL8
 
 Object Detection: https://medium.com/@jonathan_hui/object-detection-speed-and-accuracy-comparison-faster-r-cnn-r-fcn-ssd-and-yolo-5425656ae359
+
+Installation TF Docker: https://blog.sicara.com/tensorflow-gpu-opencv-jupyter-docker-10705b6cd1d
